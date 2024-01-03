@@ -5,7 +5,7 @@
 
 :woman_technologist: I am pursuing MSCS at Seattle University.
 
-:smiley_cat: Currently, I am expanding my skills in both front-end and back-end development, and I am open to any internship or job opportunities in 2023/2024.
+:smiley_cat: Currently, I am expanding my skills in both front-end and back-end development, and I am open to any internship or job opportunities in 2024.
 
 :computer: I am currently learning UI/UX , React
 
