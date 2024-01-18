@@ -14,10 +14,6 @@
 
 ![My Skills](https://skillicons.dev/icons?i=azure,cs,dotnet,aws,py,git,linux,js,html,css,&perline=5)
 
-:cat: States :
-
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=BubuCatt&hide=contribs&show_icons=true&theme=radical)](https://github.com/BuBuCatt/KristenHsu/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BubuCatt&hide=html&layout=compact&theme=radical)](https://github.com/BubuCatt/github-readme-stats)
