@@ -1,10 +1,21 @@
 
 <h1>Hi 👋</h1>
+<svg width="435" height="50" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#00008B;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#800080;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <text x="0" y="35" font-family="DynaPuff" font-size="35" fill="url(#gradient)">
+    Hi, I am Kristen Hsu
+  </text>
+  <text x="0" y="75" font-family="DynaPuff" font-size="35" fill="url(#gradient)">
+    Software Developer
+  </text>
+</svg>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DynaPuff&pause=1000&width=435&lines=Hi%2C+I+am+Kristen+Hsu;Software+Developer+&background=00008B00-80008000)](https://git.io/typing-svg)
 
-
-<h3>A passionate software developer</h3>
 
 - 🔭 I’m currently working on **AI and LLM models for a Chatbot project.**
 
