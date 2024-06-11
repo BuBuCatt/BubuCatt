@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<h1 align="center">Hi 👋, I'm Kristen</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=DynaPuff&pause=1000&color=FF7965CB&width=435&lines=Hi%2C+I+am+Kristen+Hsu;Software+Engineer+)](https://git.io/typing-svg)
 
