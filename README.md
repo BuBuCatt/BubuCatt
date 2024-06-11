@@ -1,7 +1,7 @@
 
 <h1>👋</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DynaPuff&pause=1000&color=800080&width=435&lines=Hi%2C+I+am+Kristen+Hsu;Software+Developer+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DynaPuff&pause=1000&color=#E6E6F&width=435&lines=Hi%2C+I+am+Kristen+Hsu;Software+Developer+)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on **AI and LLM models for a Chatbot project.**
 
