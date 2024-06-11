@@ -1,5 +1,5 @@
 
-<h1>Hello 👋</h1>
+<h1>👋</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=DynaPuff&pause=1000&color=800080&width=435&lines=Hi%2C+I+am+Kristen+Hsu;Software+Developer+)](https://git.io/typing-svg)
 
