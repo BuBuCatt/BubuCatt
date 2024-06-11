@@ -1,10 +1,10 @@
 
-<h1 align="center">Hi 👋, I'm Kristen</h1>
+<h1>Hi 👋</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=DynaPuff&pause=1000&width=435&lines=Hi%2C+I+am+Kristen+Hsu;Software+Developer+&background=00008B00-80008000)](https://git.io/typing-svg)
 
 
-<h3 align="center">A passionate software developer</h3>
+<h3>A passionate software developer</h3>
 
 - 🔭 I’m currently working on **AI and LLM models for a Chatbot project.**
 
